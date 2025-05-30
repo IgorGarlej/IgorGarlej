@@ -1,4 +1,4 @@
-# 👋 Hi there, I’ Igor!
+# 👋 Hi there, I’m Igor!
 
 🎯 **Aspiring Data Scientist** | 📊 Finance & Analytics Background | 🐍 Python Developer
 
@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a finance professional with a strong foundation in **data analytics**, currently transitioning into **data science**. With a Master's in Finance & Accounting and experience as an FP&A Analyst, I bring a unique blend of business acumen and technical skills to solve real-world problems using data.
+I'm a finance professional with a strong foundation in **data analytics**, currently transitioning into **data analytics/science**. With a Master's in Finance & Accounting and experience as an FP&A Analyst, I bring a unique blend of business acumen and technical skills to solve real-world problems using data.
 
 I have almost (finishing in June 2025) completed postgraduate studies in **Python Development** and I am actively building projects in **data analysis**, **machine learning** and **web development**.
 
