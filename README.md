@@ -1,42 +1,42 @@
 # 👋 Hi there, I’m Igor!
 
-🎯 **Aspiring Data Scientist** | 📊 Finance & Analytics Background | 🐍 Python Developer
+ 🖥️ Software Developer | 📈 Data Scientist | 📊 Finance & Analytics Background |
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a finance professional with a strong foundation in **data analytics**, currently transitioning into **data analytics/science**. With a Master's in Finance & Accounting and experience as an FP&A Analyst, I bring a unique blend of business acumen and technical skills to solve real-world problems using data.
+I'm a programming passionate with a strong foundation in **web development** and **data analytics**, currently working as a **Software Developer/Data Scientist**. With a Master's in Finance & Accounting and experience as an FP&A Analyst, I bring a unique blend of business acumen and technical skills to solve real-world problems using data.
 
-I have almost (finishing in June 2025) completed postgraduate studies in **Python Development** and I am actively building projects in **data analysis**, **machine learning** and **web development**.
+I completed postgraduate studies in **Python Development** and I am actively building projects in **data analysis**, **machine learning** and **web development**.
 
 ---
 
 
 ## 🔧 Tech Stack
 
-- **Languages**: Python, SQL, HTML/CSS
+- **Languages**: JavaScript, HTML, CSS, Python, SQL
 - **Data & Analysis**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
-- **Web Development**: Django
-- **Tools**: Git, VS Code, Jupyter, Docker (learning)
-- **Databases**: SQLite
-- **Other**: Excel, GitHub Actions (learning)
+- **Web Development**: Next.js, React, TailwindCSS, ShadCN, Django
+- **Tools**: Git, VS Code, Jupyter, Docker
+- **Databases**: PostgreSQL, SQLite, MongoDB
+- **Other**: Excel, GitHub Actions
 
 ---
 
 ## 🚀 Current Projects
 
-- 🚗 **Django Car Rental App** – Full-stack app for managing vehicle bookings, user accounts, and admin features
-- 🗺️ **NYC Traffic Accidents Analysis** – Exploratory data analysis on collision data using Pandas and visualization libraries
+- 🚗 **Django Car Rental App** - Full-stack app for managing vehicle bookings, user accounts, and admin features
+- 🗺️ **NYC Traffic Accidents Analysis** - Exploratory data analysis on collision data using Pandas and visualization libraries
+- 💬 **AI Agent** - Full-stack app which supports marketing teams in their daily work. Designed and built the frontend part.
 
 ---
 
 ## 🎯 Goals for 2025
 
-- Land my first role as a **Data Analyst / Junior Data Scientist**
 - Learn **deep learning** basics with TensorFlow or PyTorch
 - Contribute to open-source finance/data projects
-- Get hands-on with **real-world datasets** from Kaggle and government APIs
+- Improve React knowledge
 
 ---
 
